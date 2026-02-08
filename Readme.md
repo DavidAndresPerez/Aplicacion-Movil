@@ -12,6 +12,5 @@ eficiente.
 	* Diseño optimizado: Aplicación diseñada y orientada a la facilidad y comodidad de uso del usuario.
 
 # Instalación y Documentación
-
-	* APK: Se adjunta la apk del proyecto en la sección Realese
-	* Manual de uso: Se adjunta un manual de uso para la aplicación en formato PDF.	
+* **📦 APK:** [Descargar ejecutable (.apk)](ejecutables/cookify.apk)
+* **📄 Manual de uso:** [Ver Manual de Usuario (PDF)](documentacion/manualDeUso_Cookify.pdf)
