@@ -1,5 +1,9 @@
 # Cookify - Gestor de Recetas.
 
+<p align="center">
+  <img src="principal.png" width="250" alt="Pantalla principal">
+  <img src="captura2.png" width="250" alt="Detalle receta">
+</p>
 * La aplicación desarrollada consiste en un gestor de recetas
 personalizado que permite al usuario guardar y organizar todos sus platos y recetas de manera
 eficiente.
